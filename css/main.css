@@ -1,0 +1,28 @@
+html {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+header {
+  background-color: #ddd;
+}
+
+.logo {
+  max-width: 200px;
+}
+
+.icon {
+  left: .3rem;
+}
+
+.near {
+  background-color: #efefef;
+}
+
+ol {
+  background-color: #fff;
+}
+
+table {
+  border-collapse: collapse;
+  width: 51rem;
+}
